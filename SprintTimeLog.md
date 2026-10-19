@@ -32,12 +32,12 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |  10/12   | 9:00 AM  |  MTG   |  Stand up and weekly planning in class     |   30        |
 |          | 9:30 AM  |  TP    |  Working on Team Project Tasks in class    |   30        |
 |  10/17   | 9:00 AM  |  IM    |  Working on individual module in class as  |  60         |
-|          |          |        |   I am just a floating helper this sprint  |             |
+|                                 I am just a floating helper this sprint                 |
 |  10/16   | 9:00 AM  |  IM    |  Working on individual module in class as  |  60         |
-|          |          |        |   I am just a floating helper this sprint  |             |
+|                                  I am just a floating helper this sprint                |
 |  10/17   | 5:00 PM  | IM     | working on individual module, realized I   |  60         |
 |          |          |        | read requirements wrong                    |             |
-| 10/19    | 2:30 PM  | IM     | looking properly into mobile app project   | 
+| 10/19    | 2:30 PM  | IM     | looking properly into mobile app project   |  90         |
 
 _Note: Add more rows as needed._
 
