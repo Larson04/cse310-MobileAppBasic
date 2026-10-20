@@ -35,6 +35,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |  10/16   | 9:00 AM  |  IM    |  Working on individual module in class as I am just a floating helper this sprint  |  60         |
 |  10/17   | 5:00 PM  | IM     | working on individual module, realized I  read requirements wrong  |  60         |
 | 10/19    | 2:30 PM  | IM     | looking properly into mobile app project   |  90         |
+| 10/20    | 2:15 PM  | IM     | starting example app                       |  
 
 _Note: Add more rows as needed._
 
