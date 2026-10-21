@@ -73,3 +73,13 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Android build outputs
+android/.gradle/
+android/app/build/
+android/build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
