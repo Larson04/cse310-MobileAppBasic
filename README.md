@@ -28,8 +28,8 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [React Native Setting Up YOur Environemnt](https://reactnative.dev/docs/set-up-your-environment)
-*
+* [React Native Setting Up Your Environemnt](https://reactnative.dev/docs/set-up-your-environment)
+* [React Native Basics](https://reactnative.dev/docs/intro-react-native-components)
 *
 
 ## Future Work
